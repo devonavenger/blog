@@ -1,2 +1,2 @@
 # Tia's food blog.
-# Powered by Jekyll.
+Powered by Jekyll.
